@@ -20,4 +20,6 @@ let Chiun: Cat = {
 
 let binofmemory = [99, "Ryu", true]; 
 
-let manything: (Number | String)[] = ["Kingdom Reborn", "Unreal Engine", 999] 
+let manything: (Number | String)[] = ["Kingdom Reborn", "Unreal Engine", 999]  
+
+console.log(manything[0]); 
